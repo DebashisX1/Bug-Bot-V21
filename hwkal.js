@@ -20,6 +20,15 @@ global.owner = ['919339619072','15204414618','15203694731','15203570258','122499
 //==========================BY Hw Mods=======================//
 global.keyopenai = `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`
 //====================BY Hw Mods=============================//
+global.autoRecording = false //auto recording
+global.autoTyping = false //auto typing
+global.autorecordtype = false //auto typing + recording
+global.autoread = false //auto read messages
+global.autobio = false //auto update bio
+global.anti92 = false //auto block +92 
+global.autoread_status = true //auto view status/story
+//====================BY Hw Mods=============================//
+
 global.botname = 'DD-Bug-bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = 'Bot' // ubah aja ini nama sticker
 global.author = 'Sticker' // ubah aja ini nama sticker
