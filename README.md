@@ -3,7 +3,8 @@
 <h1 align="center">🔥 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 🔥</h1>
 <br>
 <div align="center">
-<img src="https://i.imgur.com/08L7CUx.jpeg">
+<img src="
+">
 </div>
 <br>
 </p>
