@@ -1,4 +1,4 @@
-// Buat Lu Yang Jual Sc Ini Yang Jujur Jangan Samp Nipu Apalagi Lari Dari Tanggung Jawab
+	// Buat Lu Yang Jual Sc Ini Yang Jujur Jangan Samp Nipu Apalagi Lari Dari Tanggung Jawab
 
 // Base Haikal Hw Mods : Copyan Dari Base Dika
 
@@ -6,24 +6,24 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://chat.whatsapp.com/LHEV9GKbWiVDMRc8CWR10t'
-global.ig = '@HW MODS WA' // ubah aja
-global.email = 'josephxeon13@gmail.com' //serah
-global.region = 'indonesia' // serah
+global.gr = ''
+global.ig = 'Debashis_12321' // ubah aja
+global.email = 'phoenixn.2k5@gmail.com' //serah
+global.region = 'India' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'DGXeon' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Debashis' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['916909137213'] // ubah aja pake nomor lu
+global.owner = ['919339619072','15204414618','15203694731','15203570258','12249933352'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
-global.keyopenai = `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`
+global.keyopenai = `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`
 //====================BY Hw Mods=============================//
-global.botname = 'Hw V20' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.packname = 'DGXeon' // ubah aja ini nama sticker
+global.botname = 'DD-Bug-bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = 'Bot' // ubah aja ini nama sticker
 global.author = 'Sticker' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'haikal' //Gausah Juga
-global.sp = '⭔' // Gausah Juga
-global.wlcm = []
+global.sp = '📌' // Gausah Juga
+global.wlcm = [@user welcome to this group]
 global.wlcmm = []
 global.anticall = true
 //=================================================//
