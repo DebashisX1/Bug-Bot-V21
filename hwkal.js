@@ -8,6 +8,9 @@ const chalk = require('chalk')
 
 global.gr = ''
 global.ig = 'Debashis_12321' // ubah aja
+global.ytname = "No channel"
+global.socialm = "Github: Debashis121212"
+global.location = "Nalhati, Birbhum, WB, India"
 global.email = 'phoenixn.2k5@gmail.com' //serah
 global.region = 'India' // serah
 //—————「 Set Nama Own & Bot 」—————//
