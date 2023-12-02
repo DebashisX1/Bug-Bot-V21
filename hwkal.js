@@ -23,7 +23,7 @@ global.author = 'Sticker' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'haikal' //Gausah Juga
 global.sp = '📌' // Gausah Juga
-global.wlcm = [@user welcome to this group]
+global.wlcm = []
 global.wlcmm = []
 global.anticall = true
 //=================================================//
