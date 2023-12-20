@@ -16,7 +16,7 @@ global.region = 'India' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Debashis' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['919339619072','14437095780','15203694731','15203570258','12249933352'] // ubah aja pake nomor lu
+global.owner = ['919339619072','14437095780','14433488261','15203570258','12249933352'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
 global.keyopenai = `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`
 //====================BY Hw Mods=============================//
