@@ -16,7 +16,7 @@ global.region = 'India' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Debashis' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['919339619072','14437095780','14433488261','15203570258','12249933352'] // ubah aja pake nomor lu
+global.owner = ['919339619072','14437095780', '918768298758'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
 global.keyopenai = `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`
 //====================BY Hw Mods=============================//
@@ -32,7 +32,7 @@ global.autoread_status = true //auto view status/story
 global.botname = 'DD-Bug-bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = 'Bot' // ubah aja ini nama sticker
 global.author = 'Sticker' // ubah aja ini nama sticker
-global.prefa = ['','!','.',',','🐤','🗿']
+global.prefa = ['/']
 global.sessionName = 'haikal' //Gausah Juga
 global.sp = '📌' // Gausah Juga
 global.wlcm = []
